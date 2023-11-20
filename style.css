@@ -1,4 +1,5 @@
 /* Привет Buddy */
-.maing-header{
-    color: rgb(87, 231, 188);
+h1{
+    color: blue;
+    text-align: center;
 }
